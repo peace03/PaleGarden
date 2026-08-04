@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f93b35a067e3ed47b68566eacb3809e, type: 3}
+  m_Name: Item_manaNumUp
+  m_EditorClassIdentifier: 
+  itemName: Mana Orb
+  itemIcon: {fileID: 21300000, guid: d7557b5d082292d4c9915c252984ca9a, type: 3}
+  itemDesc: ManaBullet number +1
+  itemType: 1
+  value: 1
